@@ -33,4 +33,6 @@ let team = [
     }
 ];
 
-console.log(team[1]);
+for (const key in team){
+    console.log(team[key]);
+}

@@ -2,33 +2,33 @@
 
 let team [
 {
-    "name": "";
-    "role": "";
-    "foto": "";
+    "name": "Angela Caroll";
+    "role": "Chief Editor";
+    "foto": "../img/angela-caroll-chief-editor.jpg";
 },
 {
-    "name": "";
-    "role": "";
-    "foto": "";
+    "name": "Angela Lopez";
+    "role": "Social Media Manager";
+    "foto": "../img/angela-lopez-social-media-manager.jpg";
 },
 {
-    "name": "";
-    "role": "";
-    "foto": "";
+    "name": "Barbara Ramos";
+    "role": "Graphic Designer";
+    "foto": "../img/barbara-ramos-graphic-designer.jpg";
 },
 {
-    "name": "";
-    "role": "";
-    "foto": "";
+    "name": "Scott Estrada";
+    "role": "Developer";
+    "foto": "../img/scott-estrada-developer.jpg";
 },
 {
-    "name": "";
-    "role": "";
-    "foto": "";
+    "name": "Walter Gordon";
+    "role": "Office Manager";
+    "foto": "../img/walter-gordon-office-manager.jpg";
 },
 {
-    "name": "";
-    "role": "";
-    "foto": "";
+    "name": "Wayne Barnett";
+    "role": "Founder CEO";
+    "foto": "../img/wayne-barnett-founder-ceo.jpg";
 },
 ]

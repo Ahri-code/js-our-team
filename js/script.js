@@ -33,6 +33,12 @@ let team = [
     }
 ];
 
-for (const key in team){
-    console.log(team[key]);
+for (let i = 0; i < team.length; i++){
+    const member = team[i];
+
+    // console.log(`Il membro del team: ` + member.name + `lavora come` + member.role);
+
+    const memberText = `<div class="card">Il membro del team: ${member.name} lavora come ${member.role}</div>`;
+
+    document.getElementById("container").innerHTML += memberText;
 }
